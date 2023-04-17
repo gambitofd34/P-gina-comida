@@ -1,0 +1,15 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+.boton{
+  margin-right: 10px;
+  /* para agregar un pequeño espacio entre los botones de Login y registro*/
+}
+header > hgroup{
+  
+  text-align: center ;
+}
+figcaption {
+  text-align:center ;
+}
